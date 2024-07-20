@@ -20,14 +20,28 @@
 
 ## Data Transformation in SQL
 Elaborate with some text
+
 ![Data transformation in SQL](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/data_transformations.sql)
 
 ## Data Analysis in SQL
 Elaborate with some text
+
 ![Data Analysis in SQL](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/data_analysis_sera_payments.sql)
 
 ## Data Modelling and Visualization in Power BI
+### Data Modelling
+![Data Modelling in Power BI](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/assets/sera_sales_dashboard_datamodel.png)
+
+### Dashboard - Homepage
+![Homepage](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/assets/sera_sales_dashboard_homepage.png)
+
+### Dashboard - Transactions
+![Transactions](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/assets/sera_sales_dashboard_transactions.png)
 
 ## Growth Analysis and Recommendations
+- Recommendation 1
+- Recommendation 2
+- Recommendation 3
 
 ## Download
+<a href = "https://github.com/oluwatobiwilliams/sera-growth-analysis/raw/main/assets/Sera%20Sales%20Performance%20Report.pbix"> Download Power BI report </a>
