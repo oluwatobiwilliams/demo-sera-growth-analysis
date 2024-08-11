@@ -21,12 +21,12 @@
 ## Data Transformation in SQL
 Elaborate with some text
 
-![Data transformation in SQL](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/data_transformations.sql)
+<a href = "https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/data_transformations.sql"> Scripts for Data Transformation </a>
 
 ## Data Analysis in SQL
 Elaborate with some text
 
-![Data Analysis in SQL](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/data_analysis_sera_payments.sql)
+<a href = "https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/data_analysis_sera_payments.sql"> SQL Scripts for Data Analysis </a>
 
 ## Data Modelling and Visualization in Power BI
 ### Data Modelling
