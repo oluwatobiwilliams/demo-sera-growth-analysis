@@ -40,8 +40,8 @@ Elaborate with some text
 
 ## Growth Analysis and Recommendations
 - Given that bank transfer is the most preferred payment method, Sera should create products that encourage users to pay via bank transfer as users might be wary of paying with their bank cards.
-- Recommendation 2
-- Recommendation 3
+- Most sales occur in the early hours of the morning from 5 AM to 11 AM; Sera should consider running campaigns in this period to optimize conversions.
+
 
 ## Download
 <a href = "https://github.com/oluwatobiwilliams/sera-growth-analysis/raw/main/assets/Sera%20Sales%20Performance%20Report.pbix"> Download Power BI report </a>
