@@ -39,7 +39,7 @@ Elaborate with some text
 ![Transactions](https://github.com/oluwatobiwilliams/sera-growth-analysis/blob/main/assets/sera_sales_dashboard_transactions.png)
 
 ## Growth Analysis and Recommendations
-- Recommendation 1
+- Given that bank transfer is the most preferred payment method, Sera should create products that encourage users to pay via bank transfer as users might be wary of paying with their bank cards.
 - Recommendation 2
 - Recommendation 3
 
